@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AshwinSoni-01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=Building+FrostKeys+Keyboard+for+Android;L2%2FL3+Enterprise+Support+Alum+(Mercedes-Benz);Power+BI+%2B+SQL+Data+Analyst;Lo-Fi%2C+Genshin+OSTs+%26+Night+Rounds+in+CS2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=Building+FrostKeys+Keyboard+for+Android;L2%2FL3+Enterprise+Support+(Mercedes-Benz);Power+BI+%2B+SQL+Data+Analyst;Lo-Fi%2C+Genshin+OSTs+%26+Night+Rounds+in+CS2" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,10 +46,10 @@ identity:
   past_tenure:
     - Wipro (2+ Years)
     - TEKsystems (1 Year)
-    - Client: Mercedes-Benz (Smaragd Server App)
+    - Client: Mercedes-Benz (L2 & L3 Operations on proprietary Smaragd tool)
   workflow:
     - Android Studio & AI Workspaces (Claude, Codex, Antigravity)
-    - Linux Server Management (Putty, sudo su, cron, Ansible)
+    - Linux Server Management (Putty,sudo,cron, Ansible playbooks)
 ```
 
 **🎧 Audio & Soundtracks on Repeat:**
@@ -103,16 +103,16 @@ identity:
 <td width="50%" valign="top">
 
 #### 🕹️ Gaming Library
-- **Rocket League** *(Aerial pinches & ranked grind)*
-- **Counter-Strike 2 & Valorant** *(Crosshair placement & clutch moments)*
-- **Genshin Impact** *(Exploration & soundtrack appreciation)*
-- **PUBG & Minecraft** *(Survival, building, & battle royale)*
+- **Rocket League** *(Hovering above Diamond 1)*
+- **Counter-Strike 2 & Valorant** 
+- **Genshin Impact** *(currently at Nod-krai)*
+- **PUBG & Minecraft**
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎨 Creative Tinkering
-- **CMF Smartwatch Faces:** Custom dials created with the community [FMC Designer](https://fmc.freethinkel.dev/).
+- **CMF Smartwatch Faces:** Custom Watchfaces created with the community [FMC Watchface designer tool](https://fmc.freethinkel.dev/).
 - **Android Home Screens:** Custom dynamic widgets & lock screens via **KWGT** & **KLCK**.
 - **AI Exploration:** Testing modern AI tooling (Google Antigravity, Claude, Codex) for rapid mobile prototypes.
 
