@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER BANNER (LIGHT & DARK MODE RESPONSIVE) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=220&section=header&text=Ashwin%20•%20the.orion&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Data%20Analyst%20%7C%20Android%20%26%20UI%20Tinkerer&descSize=16&descAlignY=60&descColor=a5b4fc&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Ashwin%20•%20the.orion&fontSize=42&fontColor=1e293b&fontAlignY=38&desc=Systems%20%26%20Data%20Analyst%20%7C%20Android%20%26%20UI%20Tinkerer&descSize=16&descAlignY=60&descColor=475569&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=220&section=header&text=Ashwin%20•%20the.orion&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Data%20Analyst%20%7C%20Android%20%26%20UI%20Tinkerer&descSize=16&descAlignY=60&descColor=a5b4fc&animation=fadeIn" width="100%" />
-</picture>
+<!-- COZY LO-FI PIXEL BANNER (RAIN & NIGHT CITY VIBE) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cozy Lo-Fi Pixel Banner" />
 
-<!-- TYPING ANIMATION -->
+<br/><br/>
+
+<h1>Ashwin • the.orion</h1>
+<p><b>Systems Support & Data Analyst • Android Tinkerer & Open-Source Builder</b></p>
+
+<!-- LIVE TYPING ANIMATION -->
 <a href="https://github.com/AshwinSoni-01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=550&lines=Building+FrostKeys+Keyboard+for+Android;L2%2FL3+Enterprise+Support+(Mercedes-Benz);Power+BI+%2B+SQL+Data+Analyst;Lo-Fi%2C+Genshin+OSTs+%26+Night+Rounds+in+CS2" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL & COMMUNITY BADGES -->
 <p align="center">
@@ -30,14 +31,15 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="48%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/gist/scottydocs/82f80c6a341e97deef91a5cc341d3e13/raw/cozy-coder-cat.gif" width="90%" style="border-radius: 12px;" alt="Cozy Coder Cat" />
-
+<!-- COZY CODING CAT ANIMATION (100% RELIABLE GITHUB CDN) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0fb97.gif" width="220px" style="border-radius: 10px;" alt="Cozy Dev Cat" />
+<br/>
 <sub><i>Tinkering late at night • Powered by AI IDEs & synthwave</i></sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
 identity:
@@ -126,21 +128,23 @@ identity:
 
 <div align="center">
 
+<!-- ULTRA-RELIABLE GITHUB ACTIVITY & STREAK (DARK/LIGHT ADAPTIVE) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Ashwin's GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSoni-01&theme=tokyonight&hide_border=true&border_radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSoni-01&theme=clean&hide_border=true&border_radius=8">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSoni-01&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Overall Stats" />
 </picture>
 
 </div>
 
 <br/>
 
+<!-- COZY LO-FI PIXEL FOOTER DIVIDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28px" style="object-fit: cover; border-radius: 6px;" alt="Cozy Footer Divider" />
 </div>
