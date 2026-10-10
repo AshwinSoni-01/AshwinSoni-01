@@ -32,7 +32,6 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<!-- Pixel Art Aesthetic Dev / Cat Gif -->
 <img src="https://raw.githubusercontent.com/gist/scottydocs/82f80c6a341e97deef91a5cc341d3e13/raw/cozy-coder-cat.gif" width="90%" style="border-radius: 12px;" alt="Cozy Coder Cat" />
 
 <sub><i>Tinkering late at night • Powered by AI IDEs & synthwave</i></sub>
@@ -51,3 +50,69 @@ identity:
   workflow:
     - Android Studio & AI Workspaces (Claude, Codex, Antigravity)
     - Linux Server Management (Putty, sudo su, cron, Ansible)
+
+🎧 Audio & Soundtracks on Repeat:
+ * Genshin Impact OSTs (Yu-Peng Chen / HOYO-MiX)
+ * Synthwave, Dubstep & Beatboxing / Loop Station Sets
+ * Modern Pop & Rap
+</td>
+</tr>
+</table>
+🚀 Flagship Project: FrostKeys
+> An intuitive, custom open-source Android keyboard (IME) fork of HeliBoard engineered for effortless daily typing, clean aesthetics, and deep personal customizability.
+> 
+ * 🛠️ Tech: Kotlin, Java, Android SDK, Gradle, XML layouts
+ * 💬 Active Community: Supported across dedicated Telegram & Discord hubs
+ * 🎯 Goal: Replace clunky default keyboards with a fast, private, lightweight drop-in daily driver.
+🛠️ Tech Stack & Digital Toolkit
+<p align="center"><b>Core Languages & Frameworks</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,nodejs,javascript,html,css,react,angular&theme=dark" alt="Languages & Mobile" />
+</p>
+<p align="center"><b>Data Analytics & Enterprise Operations</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,bash,linux,vscode&theme=dark" alt="Databases, Git, & Systems" />
+</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power_Query-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Power Query" />
+<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/FMC_Watch_Dials-111111?style=flat-square&logo=target&logoColor=white" alt="FMC" />
+<img src="https://img.shields.io/badge/Kustom_KWGT%2FKLCK-4A90E2?style=flat-square&logo=android&logoColor=white" alt="KWGT" />
+</div>
+🎮 Side Quests & Hobbies
+<table>
+<tr>
+<td width="50%" valign="top">
+🕹️ Gaming Library
+ * Rocket League (Aerial pinches & ranked grind)
+ * Counter-Strike 2 & Valorant (Crosshair placement & clutch moments)
+ * Genshin Impact (Exploration & soundtrack appreciation)
+ * PUBG & Minecraft (Survival, building, & battle royale)
+</td>
+<td width="50%" valign="top">
+🎨 Creative Tinkering
+ * CMF Smartwatch Faces: Custom dials created with the community FMC Designer.
+ * Android Home Screens: Custom dynamic widgets & lock screens via KWGT & KLCK.
+ * AI Exploration: Testing modern AI tooling (Google Antigravity, Claude, Codex) for rapid mobile prototypes.
+</td>
+</tr>
+</table>
+📊 GitHub Activity
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=AshwinSoni-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Ashwin's GitHub Stats" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=tokyonight&hide_border=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=default&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSoni-01&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</picture>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
+
